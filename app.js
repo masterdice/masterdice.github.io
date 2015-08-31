@@ -1099,7 +1099,7 @@ var BetBoxChance = React.createClass({
       {},
       el.span(
         {className: 'lead', style: { fontWeight: 'bold' }},
-        'House edge is 99%''Chance:'
+        'Chance:'
       ),
       innerNode
     );
